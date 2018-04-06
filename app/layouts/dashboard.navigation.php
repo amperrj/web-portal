@@ -16,7 +16,7 @@
             <a class="nav-link" href="drivers.php">Drivers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="rides.php">Rides</a>
+            <a class="nav-link" href="trips.php">Trips</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="payments.php">Payments</a>
